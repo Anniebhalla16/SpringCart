@@ -9,6 +9,5 @@ A. Backend
   4. PostgreSQL
 
 B. Additional
-  1. CORS: cross origin requests
-  3. CommandlineRunner for Seeding
+  1. CommandlineRunner for Seeding
    
