@@ -1,6 +1,7 @@
 # SpringCart
 
 Technologies used
+
 A. Frontend
   1. React
   2. Vite
