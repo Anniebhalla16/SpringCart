@@ -2,20 +2,13 @@
 
 Technologies used
 
-A. Frontend
-  1. React
-  2. Vite
-  3. Javascript (ES6)
-  4. Bootstrap CSS
-  5. Fetch API
-
-B. Backend
+A. Backend 
   1. Spring Boot
   2. Spring Data JPA
   3. Hibernate: ORM
-  4. MySQL
+  4. PostgreSQL
 
-C. Additional
+B. Additional
   1. CORS: cross origin requests
   3. CommandlineRunner for Seeding
    
