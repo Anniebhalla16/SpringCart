@@ -15,6 +15,6 @@ B. Backend
   4. MySQL
 
 C. Additional
-  1. CORS
-  2. CommandlineRunner for Seeding
+  1. CORS: cross origin requests
+  3. CommandlineRunner for Seeding
    
